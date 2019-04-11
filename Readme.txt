@@ -1,7 +1,6 @@
 Dowload the repo and run Game2D.exe from the folder Build to play the game.
 
-Use Arrow keys to play the game.
-
+Use Arrow keys to control the Balls.
 
 Constraints: 
 1. The Arrow keys control the black and red balls simultaneously.
